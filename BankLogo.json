@@ -4,146 +4,284 @@
     "nameLong": "ธนาคารเพื่อการเกษตรและสหกรณ์การเกษตร",
     "nameEN": "Bank for Agriculture and Agricultural Cooperatives",
     "symbol": "BAAC",
-    "icon": "https://raw.githubusercontent.com/casperstack/thai-banks-logo/master/icons/BAAC.png"
+    "icon": "https://raw.githubusercontent.com/casperstack/thai-banks-logo/master/icons/BAAC.png",
+    "aliases": [
+      "baac",
+      "ธ.ก.ส.",
+      "ธ.เพื่อการเกษตรและสหกรณ์การเกษตร",
+      "bank for agriculture",
+      "bank for agriculture and agricultural cooperatives",
+      "ธนาคารเพื่อการเกษตรและสหกรณ์การเกษตร"
+    ]
   },
   "BAY": {
     "name": "กรุงศรีอยุธยา",
     "nameLong": "ธนาคารกรุงศรีอยุธยา",
     "nameEN": "Krungsri Bank",
     "symbol": "BAY",
-    "icon": "https://raw.githubusercontent.com/casperstack/thai-banks-logo/master/icons/BAY.png"
+    "icon": "https://raw.githubusercontent.com/casperstack/thai-banks-logo/master/icons/BAY.png",
+    "aliases": [
+      "bay",
+      "krungsri",
+      "krungsri bank",
+      "กรุงศรี",
+      "ธ.กรุงศรี",
+      "ธนาคารกรุงศรีอยุธยา",
+      "กรุงศรีอยุธยา"
+    ]
   },
   "BBL": {
     "name": "กรุงเทพ",
     "nameLong": "ธนาคารกรุงเทพ",
     "nameEN": "Bangkok Bank",
     "symbol": "BBL",
-    "icon": "https://raw.githubusercontent.com/casperstack/thai-banks-logo/master/icons/BBL.png"
+    "icon": "https://raw.githubusercontent.com/casperstack/thai-banks-logo/master/icons/BBL.png",
+    "aliases": [
+      "bbl",
+      "bangkok bank",
+      "กรุงเทพ",
+      "ธ.กรุงเทพ",
+      "บัวหลวง", "ธนาคารกรุงเทพ"
+    ]
   },
   "CIMB": {
     "name": "ซีไอเอ็มบี",
     "nameLong": "ธนาคารซีไอเอ็มบี",
     "nameEN": "CIMB Thai Bank",
     "symbol": "CIMB",
-    "icon": "https://raw.githubusercontent.com/casperstack/thai-banks-logo/master/icons/CIMB.png"
+    "icon": "https://raw.githubusercontent.com/casperstack/thai-banks-logo/master/icons/CIMB.png",
+    "aliases": [
+      "cimb",
+      "cimb thai",
+      "ซีไอเอ็มบี",
+      "ธ.ซีไอเอ็มบี"
+    ]
   },
   "CITI": {
     "name": "ซิตี้แบงก์",
     "nameLong": "ธนาคารซิตี้แบงก์",
     "nameEN": "citibank",
     "symbol": "CITI",
-    "icon": "https://raw.githubusercontent.com/casperstack/thai-banks-logo/master/icons/CITI.png"
+    "icon": "https://raw.githubusercontent.com/casperstack/thai-banks-logo/master/icons/CITI.png",
+    "aliases": [
+      "citi",
+      "citibank",
+      "ซิตี้",
+      "ซิตี้แบงก์"
+    ]
   },
   "GHB": {
     "name": "ธ.อ.ส.",
     "nameLong": "ธนาคารอาคารสงเคราะห์",
     "nameEN": "GH Bank",
     "symbol": "GHB",
-    "icon": "https://raw.githubusercontent.com/casperstack/thai-banks-logo/master/icons/GHB.png"
+    "icon": "https://raw.githubusercontent.com/casperstack/thai-banks-logo/master/icons/GHB.png",
+    "aliases": [
+      "ghb",
+      "gh bank",
+      "ธอส",
+      "ธ.อ.ส.",
+      "อาคารสงเคราะห์",
+      "government housing bank"
+    ]
   },
   "GSB": {
     "name": "ออมสิน",
     "nameLong": "ธนาคารออมสิน",
     "nameEN": "Government Savings Bank",
     "symbol": "GSB",
-    "icon": "https://raw.githubusercontent.com/casperstack/thai-banks-logo/master/icons/GSB.png"
+    "icon": "https://raw.githubusercontent.com/casperstack/thai-banks-logo/master/icons/GSB.png",
+    "aliases": [
+      "gsb",
+      "government savings bank",
+      "ออมสิน",
+      "ธ.ออมสิน"
+    ]
   },
   "HSBC": {
     "name": "เอชเอสบีซี",
     "nameLong": "ธนาคารเอชเอสบีซี",
     "nameEN": "HSBC Bank",
     "symbol": "HSBC",
-    "icon": "https://raw.githubusercontent.com/casperstack/thai-banks-logo/master/icons/HSBC.png"
+    "icon": "https://raw.githubusercontent.com/casperstack/thai-banks-logo/master/icons/HSBC.png",
+    "aliases": [
+      "hsbc",
+      "เอชเอสบีซี"
+    ]
   },
   "IBANK": {
     "name": "อิสลามแห่งประเทศไทย",
     "nameLong": "ธนาคารอิสลามแห่งประเทศไทย",
     "nameEN": "Islamic Bank of Thailand",
     "symbol": "IBANK",
-    "icon": "https://raw.githubusercontent.com/casperstack/thai-banks-logo/master/icons/IBANK.png"
+    "icon": "https://raw.githubusercontent.com/casperstack/thai-banks-logo/master/icons/IBANK.png",
+    "aliases": [
+      "ibank",
+      "islamic bank",
+      "อิสลาม",
+      "ธ.อิสลาม"
+    ]
   },
   "ICBC": {
     "name": "ไอซีบีซี",
     "nameLong": "ธนาคารไอซีบีซี",
     "nameEN": "ICBC Thai Commercial Bank",
     "symbol": "ICBC",
-    "icon": "https://raw.githubusercontent.com/casperstack/thai-banks-logo/master/icons/ICBC.png"
+    "icon": "https://raw.githubusercontent.com/casperstack/thai-banks-logo/master/icons/ICBC.png",
+    "aliases": [
+      "icbc",
+      "ไอซีบีซี"
+    ]
   },
   "KBANK": {
     "name": "กสิกรไทย",
     "nameLong": "ธนาคารกสิกรไทย",
     "nameEN": "Kasikorn Bank",
     "symbol": "KBANK",
-    "icon": "https://raw.githubusercontent.com/casperstack/thai-banks-logo/master/icons/KBANK.png"
+    "icon": "https://raw.githubusercontent.com/casperstack/thai-banks-logo/master/icons/KBANK.png",
+    "aliases": [
+      "kbank",
+      "กสิกร",
+      "ธ.กสิกร",
+      "kasikorn",
+      "kasikorn bank",
+      "ธนาคารกสิกร"
+    ]
   },
   "KKP": {
     "name": "เกียรตินาคิน",
     "nameLong": "ธนาคารเกียรตินาคินภัทร",
     "nameEN": "Kiatnakin Phatra Bank",
     "symbol": "KKP",
-    "icon": "https://raw.githubusercontent.com/casperstack/thai-banks-logo/master/icons/KKP.png"
+    "icon": "https://raw.githubusercontent.com/casperstack/thai-banks-logo/master/icons/KKP.png",
+    "aliases": [
+      "kkp",
+      "kiatnakin",
+      "phatra",
+      "เกียรตินาคิน",
+      "ภัทร",
+      "ธ.เกียรตินาคิน"
+    ]
   },
   "KTB": {
     "name": "กรุงไทย",
     "nameLong": "ธนาคารกรุงไทย",
     "nameEN": "Krungthai Bank",
     "symbol": "KTB",
-    "icon": "https://raw.githubusercontent.com/casperstack/thai-banks-logo/master/icons/KTB.png"
+    "icon": "https://raw.githubusercontent.com/casperstack/thai-banks-logo/master/icons/KTB.png",
+    "aliases": [
+      "ktb",
+      "krungthai",
+      "กรุงไทย",
+      "ธ.กรุงไทย"
+    ]
   },
   "LHB": {
     "name": "แลนด์ แอนด์ เฮ้าส์",
     "nameLong": "ธนาคารแลนด์ แอนด์ เฮ้าส์",
     "nameEN": "LH Bank",
     "symbol": "LHB",
-    "icon": "https://raw.githubusercontent.com/casperstack/thai-banks-logo/master/icons/LHB.png"
+    "icon": "https://raw.githubusercontent.com/casperstack/thai-banks-logo/master/icons/LHB.png",
+    "aliases": [
+      "lhb",
+      "lh bank",
+      "land and houses",
+      "แลนด์แอนด์เฮ้าส์",
+      "ธ.แลนด์ แอนด์ เฮ้าส์"
+    ]
   },
   "PromptPay": {
     "name": "พร้อมเพย์",
     "nameLong": "พร้อมเพย์",
     "nameEN": "PromptPay",
     "symbol": "PromptPay",
-    "icon": "https://raw.githubusercontent.com/casperstack/thai-banks-logo/master/icons/PromptPay.png"
+    "icon": "https://raw.githubusercontent.com/casperstack/thai-banks-logo/master/icons/PromptPay.png",
+    "aliases": [
+      "promptpay",
+      "พร้อมเพย์"
+    ]
   },
   "SCB": {
     "name": "ไทยพาณิชย์",
     "nameLong": "ธนาคารไทยพาณิชย์",
     "nameEN": "The Siam Commercial Bank",
     "symbol": "SCB",
-    "icon": "https://raw.githubusercontent.com/casperstack/thai-banks-logo/master/icons/SCB.png"
+    "icon": "https://raw.githubusercontent.com/casperstack/thai-banks-logo/master/icons/SCB.png",
+    "aliases": [
+      "scb",
+      "ไทยพาณิชย์",
+      "ธ.ไทยพาณิชย์",
+      "siam commercial",
+      "siam commercial bank"
+    ]
   },
   "TCRB": {
     "name": "ไทยเครดิต",
     "nameLong": "ธนาคารไทยเครดิต",
     "nameEN": "Thai Credit Bank",
     "symbol": "TCRB",
-    "icon": "https://raw.githubusercontent.com/casperstack/thai-banks-logo/master/icons/TCRB.png"
+    "icon": "https://raw.githubusercontent.com/casperstack/thai-banks-logo/master/icons/TCRB.png",
+    "aliases": [
+      "tcrb",
+      "thai credit",
+      "ไทยเครดิต",
+      "ธ.ไทยเครดิต"
+    ]
   },
   "TISCO": {
     "name": "ทิสโก้",
     "nameLong": "ธนาคารทิสโก้",
     "nameEN": "Tisco Bank",
     "symbol": "TISCO",
-    "icon": "https://raw.githubusercontent.com/casperstack/thai-banks-logo/master/icons/TISCO.png"
+    "icon": "https://raw.githubusercontent.com/casperstack/thai-banks-logo/master/icons/TISCO.png",
+    "aliases": [
+      "tisco",
+      "ทิสโก้",
+      "ธ.ทิสโก้"
+    ]
   },
   "TrueMoney": {
     "name": "ทรูมันนี่",
     "nameLong": "ทรูมันนี่",
     "nameEN": "True Money",
     "symbol": "TrueMoney",
-    "icon": "https://raw.githubusercontent.com/casperstack/thai-banks-logo/master/icons/TrueMoney.png"
+    "icon": "https://raw.githubusercontent.com/casperstack/thai-banks-logo/master/icons/TrueMoney.png",
+    "aliases": [
+      "truemoney",
+      "tmw",
+      "wallet",
+      "ทรูมันนี่",
+      "ทรูวอลเล็ท"
+    ]
   },
   "TTB": {
     "name": "ทีเอ็มบีธนชาต",
     "nameLong": "ธนาคารทหารไทยธนชาต",
     "nameEN": "TMBThanachart Bank",
     "symbol": "TTB",
-    "icon": "https://raw.githubusercontent.com/casperstack/thai-banks-logo/master/icons/TTB.png"
+    "icon": "https://raw.githubusercontent.com/casperstack/thai-banks-logo/master/icons/TTB.png",
+    "aliases": [
+      "ttb",
+      "tmb",
+      "thanachart",
+      "tmbthanachart",
+      "ทหารไทยธนชาต",
+      "ธ.ทหารไทยธนชาต",
+      "ทีทีบี",
+      "ธนาคารทหารไทยธนชาต"
+    ]
   },
   "UOB": {
     "name": "ยูโอบี",
     "nameLong": "ธนาคารยูโอบี",
     "nameEN": "United Overseas Bank",
     "symbol": "UOB",
-    "icon": "https://raw.githubusercontent.com/casperstack/thai-banks-logo/master/icons/UOB.png"
+    "icon": "https://raw.githubusercontent.com/casperstack/thai-banks-logo/master/icons/UOB.png",
+    "aliases": [
+      "uob",
+      "united overseas bank",
+      "ยูโอบี",
+      "ธ.ยูโอบี"
+    ]
   }
 }
